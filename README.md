@@ -1,2 +1,2 @@
 # fundation-code
-La funcación
+La fundación
